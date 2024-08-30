@@ -41,17 +41,17 @@ const Landing = ({setSelectedPage}) => {
                         }}
                     >
                         <p className="text-6xl font-playfair z-10 text-center md:text-start">
-                            Aman {""}
+                            Denz {""}
                             <span className="xs:relative xs:text-deep-blue xs:font-semibold z-20
                                 xs:before:content-brush before:absolute before:-left-[25px]
                                 before:-top-[70px] before:z-[-1]
                             ">
-                                Singh
+                                Lacuesta
                             </span>
                         </p>
                         <p className="mt-10 mb-7 text-sm text-center md:text-start">
-                            Just a Web-Dev & Competitive Coding Enthusiast. 
-                            <br></br>Passionate Coder. 
+                            Aspiring Network Specialist & Coding Enthusiast. 
+                            <br></br>Always willing to Learn. 
                             <br></br>Turning Coffee 🥤 into Code ✌🏻. 
                             <br></br>Happy Coding!
                         </p>
@@ -86,7 +86,7 @@ const Landing = ({setSelectedPage}) => {
                                 className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center
                                     justify-center font-playfair px-10"
                             >
-                                Let's Talk.
+                                Let's Connect!
                             </div>
                         </AnchorLink>
                     </motion.div>

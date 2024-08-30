@@ -25,10 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            A Grad with Web development and Data Structures and Algorithms
-            knowledge, Machine Learning, coupled with a passion for coding,
-            possessing a wide range of skills that are highly valuable in the
-            tech industry.
+            A Certified Tesda NC II Holder with Recognitions from Cisco Networking Academy for both Cybersecurity and Network Defense.
           </p>
         </motion.div>
         <div className="mt-16 md:mt-0">
@@ -79,7 +76,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              Python Development Intern | Business Development Intern
+              General Virtual Assistant | Technical Support
             </span>
             {/* <br></br>Designed several ideas for company’s logo and poster.
                         <br></br>Researched and analyzed Car sales data and maintained record. */}
@@ -109,7 +106,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             <span className="font-playfair font-semibold text-xl mt-3">
-              HTML, ReactJS, Tailwind CSS, Framer-Motion
+              HTML, ReactJS, Tailwind CSS
             </span>
             {/* <br></br>Proficiency in web development can open up a wide range of career opportunities. */}
           </p>
